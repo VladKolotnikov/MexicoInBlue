@@ -1,0 +1,28 @@
+.logoimg {
+  background-color: white;
+  position: relative;
+  padding-left:0.5%;
+  padding-right:0.5%;
+  bottom: 80px;
+  border: 2px black solid;
+
+}
+.navbar {
+  border: 2px black solid;
+  /* position: relative;
+  left: 50px; */
+}
+#body {
+  background-color: White;
+  /* position: relative;
+  right: 50px; */
+}
+.accordion{
+  margin-top: 50px;
+}
+#thank{
+  text-align: center;
+  font-family: cursive;
+  color: cornFlowerBlue;
+  margin-bottom: 50px;
+}

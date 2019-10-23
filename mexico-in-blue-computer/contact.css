@@ -1,0 +1,34 @@
+.logoimg {
+  background-color: white;
+  position: relative;
+  padding-left:0.5%;
+  padding-right:0.5%;
+  bottom: 85px;
+  border: 2px black solid;
+
+}
+.navbar {
+  border: 2px black solid
+}
+#body {
+  background-color: White;
+
+}
+.mainInfo{
+  text-align: center;
+  margin-top: 50px;
+}
+.black{
+  color: white
+}
+#yi{
+  height: 325px;
+}
+.bel{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1)
+}
+.vl:active{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1)
+}

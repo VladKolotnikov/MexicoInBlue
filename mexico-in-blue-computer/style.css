@@ -1,0 +1,52 @@
+#body{
+  background-image: url('./background.jpg');
+  background-size: 110%;
+  background-repeat: no-repeat;
+}
+
+#add {
+  position: relative;
+  left: 600px;
+  bottom: 100px;
+  width: 40%;
+}
+.navbar {
+  border: 2px black solid;
+}
+ #title1 {
+   text-align: center;
+   margin-top: 20px;
+ }
+ #title2{
+   text-align: center;
+   font-family: Impact;
+   color: DarkBlue;
+   font-size: 96px;
+
+ }
+ #title{
+   position: relative;
+   margin-left: 500px;
+   margin-top: 150px;
+   width: 400px;
+
+ }
+ #description{
+   text-align: center;
+   position: relative;
+   margin-left: 120px;
+   margin-top: 180px;
+   width: 80%;
+   font-weight: bold;
+
+ }
+ #slogan{
+   text-align: center;
+   font-family: Impact;
+   margin-right: 50px;
+
+
+ }
+#logo{
+  z-index: 999;
+}

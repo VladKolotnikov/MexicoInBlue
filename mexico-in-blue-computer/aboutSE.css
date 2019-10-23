@@ -1,0 +1,19 @@
+.logoimg {
+  background-color: white;
+  position: relative;
+  padding-left:0.5%;
+  padding-right:0.5%;
+  bottom: 80px;
+  border: 2px black solid;
+
+}
+.navbar {
+  border: 2px black solid;
+
+}
+#body {
+  background-color: White;
+}
+.jumbotron{
+  margin-top: 120px;
+}

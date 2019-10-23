@@ -1,0 +1,121 @@
+.spaceBetween {
+  background-image: url('./pic1.png');
+  position: relative;
+  padding-bottom: 25%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.spaceBetween2 {
+  background-image: url('./pic2.png');
+  position: relative;
+  padding-bottom: 25%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#body {
+  background-image: url('https://mk0mexiconewsdam2uje.kinstacdn.com/wp-content/uploads/2018/12/ecatepec.jpg');
+  /* Full height */
+  height: 100%;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logoimg {
+  background-color: white;
+  position: relative;
+  padding-left: 0.5%;
+  padding-right: 0.5%;
+  bottom: 85px;
+  border: 2px black solid;
+}
+
+.navbar {
+  border: 2px black solid;
+  position: sticky;
+}
+#give, #recycle, #save{
+  font-size: 64px;
+}
+#intro {
+  position: relative;
+  text-align: center;
+  font-family: Impact;
+  color: floralWhite;
+  margin-bottom: 300px;
+  margin-top: 200px;
+  /* border: 1px white solid;
+  width: 28%;
+  background-color: white;
+  color: rgb(53, 58, 63); */
+}
+/* #flex{
+  display: flex;
+  justify-content: center;
+} */
+#mission {
+  text-align: center;
+  width: 90%;
+  position: relative;
+  left: 60px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  /* font-weight: bold; */
+  color: black;
+}
+
+#container {
+  border: 1px solid white;
+  background-color: white;
+  position: relative;
+}
+
+/* #pic1{
+  position: relative;
+  left: 150px;
+  top: 100px;
+
+
+} */
+#save, #recycle {
+  margin-top: 50px;
+}
+
+.facts {
+  position: relative;
+  /* margin-top: 200px; */
+  border: 1px solid white;
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  /* font-weight: bold; */
+  color: black;
+  font-size: 24px;
+}
+
+#factsList {
+  list-style: none;
+}
+
+.fact {
+  border-bottom: 1px grey solid;
+  margin-top: 5px;
+  margin-right: 45px;
+
+}
+
+#factsTitle {
+  margin-bottom: 50px;
+}
+
+#body, #html {
+  height: 100%;
+}

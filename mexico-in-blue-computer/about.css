@@ -1,0 +1,24 @@
+.logoimg {
+  background-color: white;
+  position: relative;
+  padding-left:0.5%;
+  padding-right:0.5%;
+  bottom: 80px;
+  border: 2px black solid;
+
+}
+.navbar {
+  border: 2px black solid;
+}
+#body {
+  background-color: White;
+}
+.carousel{
+  border: 1px black solid;
+  width: 90%;
+  position: relative;
+  margin-left: 80px;
+}
+#vladT {
+  text-align: center;
+}
